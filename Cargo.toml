@@ -1,0 +1,9 @@
+[package]
+name = "bencode-minimal"
+version = "0.1.0"
+description = "A Bencode library depending only on the Rust standard library."
+authors = ["Lars Petersen <info@lars-petersen.net>"]
+homepage = "https://github.com/lpeterse/bencode-minimal"
+repository = "https://github.com/lpeterse/bencode-minimal"
+edition = "2021"
+license = "MIT"
